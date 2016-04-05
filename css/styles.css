@@ -106,11 +106,7 @@
     padding: 10px;
   }
 
-/*.col-md-12, .col-sm-12, .col-xs-12, .col-xxs-12{
-  background-color: beige;
-  background-color: #f5f5dc;
-}
-.col-md-12, .col-sm-12, .col-xs-12, */.col-xxs-12{
+.col-xs-12, {
   background-color: #f5f5dc;
 }
 
